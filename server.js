@@ -33,7 +33,7 @@ app.use((err, req, res, next) => {
 });
 
 app.get('*', (req, res) => {
-  res.sendFile(path.join(_dirname + "/client/public", 'index.html'));
+  res.sendFile(path.join(_dirname, '/client/build', 'index.html'));
 });
 
 app.listen(port, () => {

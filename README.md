@@ -4,11 +4,11 @@
 Build a To Do List application that users a restful API and MERN stack
 
 ## Technologies
-*MongoDB
-*Express
-*React
-*Node.js
-*Heroku
+* MongoDB
+* Express
+* React
+* Node.js
+* Heroku
 
 ## Link
 https://ml042685-react-mytodolist.herokuapp.com/
